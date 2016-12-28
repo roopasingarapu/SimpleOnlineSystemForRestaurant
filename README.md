@@ -1,3 +1,3 @@
 # SimpleOnlineSystemForRestaurant
 
-Implemented a simple online system (CRUD operations) for Restaurant using PHP, javaScript, HTML and MySQL.
+Implemented a simple online system (CRUD operations) for Restaurant using PHP, jQuery, HTML and MySQL.
