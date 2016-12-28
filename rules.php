@@ -33,6 +33,5 @@
     <footer>
         &copy; Roopa 2014. All rights reserved.
     </footer>
-<script type="text/javascript" src="js/script.js"></script>
 </body>
 </html>
